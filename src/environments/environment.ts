@@ -14,8 +14,11 @@ export const environment = {
   },
 
   production: false,
-  URL: 'https://portfoliobckmm.onrender.com'
-  //'http://localhost:8080/'
+  //RENDER
+  //URL: 'https://portfoliobckmm.onrender.com'
+  
+  //LOCAL
+  URL:'http://localhost:8080/'
 };
 
 /*
